@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WorldThings</string>
+
+    <string-array name="worldname">
+        <item>Paris, Perancis</item>
+        <item>London, UK</item>
+        <item>Roma, Italia</item>
+        <item>Bali, Indonesia</item>
+        <item> Crete, Yunani</item>
+        <item>Barcelona, Spanyol</item>
+        <item>Pargue, Republik Ceko</item>
+        <item>Marrakech, Maroko</item>
+        <item>Istanbul, Turki</item>
+        <item>New York City, New York</item>
+    </string-array>
+
+    <string-array name="worlddetail">
+        <item>Paris dikenal sebagai kota romantis yang kerapkali menjadi latar film-film romantis di seluruh dunia. Bahkan gak sedikit juga film Indonesia yang mengambil latar Paris lho. Siapa nih yang cita-citanya mengunjungi Paris?</item>
+        <item>London memiliki bangunan-bangunan yang masih otentik dan memiliki sejarah yang masih melekat. Inggris sebagai negara yang masih mempertahankan sistem pemerintahan kerajaan ini menjadi daya tarik tersendiri bagi para pelancong untuk menelusurinya.</item>
+        <item>Roma, Italia terkenal dengan pizza-nya. Gak hanya makanan, di sini kita bisa menuju ke Vatikan dan juga mengunjungi Colosseum yang terkenal itu. Gak heran deh kalau kota ini jadi destinasi populer di dunia ya.</item>
+        <item>Bisa dibilang, Bali sudah menjadi langganan peraih penghargaan destinasi terbaik dunia. Tahun ini pun, Bali menjadi salah satu destinasi terbaik menurut Trip Advisor. Selain kekayaan alamnya, Bali juga memiliki kebudayaan Hindu yang begitu kental dan masih dijaga hingga sekarang. Sudah pernah ke Bali belum?</item>
+        <item>Yunani juga gak luput menjadi salah satu destinasi terbaik nih. Salah satnya berada di Crete. Beberapa tempat wisata yang bisa dikunjungi di sini antara lain Chania Town, Heraklion, Rethymnon, Agios Nikolaos, dan Malia.</item>
+        <item>Siapa yang gak tahu Barcelona? Kota dengan klub sepak bola andalannya, FCB ini ternyata menjadi destinasi yang memiliki daya tarik tersendiri bagi wisatawan. Selain klub sepak bola, Barcelona juga memiliki destinasi lain yang penuh sejarah dan keunikannya lho.</item>
+        <item>Di Pargue, kamu bisa menemukan berbagai bangunan klasik, bersejarah ataupun yang menjadi peninggalan-peninggalan masa terdahulu.</item>
+        <item>Di destinasi selanjutnya, ada Marrakech yang berada di Maroko. Di sini, kamu akan mengenal keetnikan dan budaya yang unik di dunia.</item>
+        <item>Istanbul menjadi pusat perekonomian, budaya, dan sejarah di Turki. Istanbul juga dikenal dengan nama Konstantinopel dan Bizantium. Ada banyak ikon populer yang bisa kamu temui di kota ini. Salah satunya yang paling terkenal adalah Blue Mosque.</item>
+        <item> New York City. Tempat yang bisa kamu kunjungi di sini antara lain Time Square, Patung Liberti, Empire State Building, One World Trade Center dan masih banyak lagi.</item>
+
+    </string-array>
+</resources>
